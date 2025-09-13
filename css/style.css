@@ -387,6 +387,8 @@ footer {
         margin-bottom:20px;
         width: 100%;
         background-color: var(--primary-color-headlines);
+        border:none;
+       border: 2px solid var(--primary-color-text);
 
     }
 
@@ -404,6 +406,7 @@ footer {
         padding-inline-start: 12px;
         padding-inline-end: 12px;
         border: none;
+        border: 2px solid var(--primary-color-text);
 
     }
     
@@ -624,6 +627,7 @@ footer {
         width: 545px;
         grid-column: 1;
         grid-row: 2 / span 2;
+  
 
     }
 
@@ -632,7 +636,8 @@ footer {
         margin-bottom:20px;
         width: 100%;
         background-color: var(--primary-color-headlines);
-
+       border:none;
+       border: 2px solid var(--primary-color-text);
     }
 
     input {
@@ -649,6 +654,7 @@ footer {
         padding-inline-start: 12px;
         padding-inline-end: 12px;
         border: none;
+        border: 2px solid var(--primary-color-text);
 
     }
     
